@@ -16,6 +16,9 @@ path:
   data: /data/data
   logs: /data/log
 
+path:
+  repo: ${REPO_LOCATIONS}
+
 bootstrap:
   memory_lock: ${MEMORY_LOCK}
 
